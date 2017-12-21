@@ -1,0 +1,25 @@
+2017-12-20 17:16:56,197  INFO main ClassPathXmlApplicationContext[prepareRefresh]:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Wed Dec 20 17:16:56 CST 2017]; root of context hierarchy
+2017-12-20 17:16:56,322  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from class path resource [project-one.xml]
+2017-12-20 17:16:56,656  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from URL [jar:file:/D:/ZKH/DEV/Java/Maven/com/demo/project-monitor/0.0.1/project-monitor-0.0.1.jar!/project-monitor.xml]
+2017-12-20 17:16:58,021  INFO main DriverManagerDataSource[setDriverClassName]:Loaded JDBC driver: com.mysql.jdbc.Driver
+2017-12-20 17:16:58,030  WARN main ClassPathXmlApplicationContext[refresh]:Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService' defined in class path resource [project-one.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'dataSource' of bean class [com.demo.project.one.service.DemoService]: Bean property 'dataSource' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2017-12-20 17:18:41,152  INFO main ClassPathXmlApplicationContext[prepareRefresh]:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Wed Dec 20 17:18:41 CST 2017]; root of context hierarchy
+2017-12-20 17:18:41,255  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from class path resource [project-one.xml]
+2017-12-20 17:18:41,436  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from URL [jar:file:/D:/ZKH/DEV/Java/Maven/com/demo/project-monitor/0.0.1/project-monitor-0.0.1.jar!/project-monitor.xml]
+2017-12-20 17:18:42,317  INFO main DriverManagerDataSource[setDriverClassName]:Loaded JDBC driver: com.mysql.jdbc.Driver
+2017-12-20 17:18:42,705  INFO main DemoService[queryDb]:Movie[Id=1,Title=生化危机：终章,Director=保罗·安德森,Genre=动作、惊悚、科幻、冒险,Language=英语]
+2017-12-20 17:32:47,932  INFO main ClassPathXmlApplicationContext[prepareRefresh]:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Wed Dec 20 17:32:47 CST 2017]; root of context hierarchy
+2017-12-20 17:32:48,082  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from class path resource [project-one.xml]
+2017-12-20 17:32:48,276  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from URL [jar:file:/D:/ZKH/DEV/Java/Maven/com/demo/project-monitor/0.0.1/project-monitor-0.0.1.jar!/project-monitor.xml]
+2017-12-20 17:32:49,096  INFO main DriverManagerDataSource[setDriverClassName]:Loaded JDBC driver: com.mysql.jdbc.Driver
+2017-12-20 17:32:49,485  INFO main DemoService[queryDb]:Movie[Id=1,Title=生化危机：终章,Director=保罗·安德森,Genre=动作、惊悚、科幻、冒险,Language=英语]
+2017-12-20 17:42:21,875  INFO main ClassPathXmlApplicationContext[prepareRefresh]:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2ac273d3: startup date [Wed Dec 20 17:42:21 CST 2017]; root of context hierarchy
+2017-12-20 17:42:22,017  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from class path resource [project-one.xml]
+2017-12-20 17:42:22,224  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from URL [jar:file:/D:/ZKH/DEV/Java/Maven/com/demo/project-monitor/0.0.1/project-monitor-0.0.1.jar!/project-monitor.xml]
+2017-12-20 17:42:23,321  INFO main DriverManagerDataSource[setDriverClassName]:Loaded JDBC driver: com.mysql.jdbc.Driver
+2017-12-20 17:42:23,738  INFO main DemoService[queryDb]:Movie[Id=1,Title=生化危机：终章,Director=保罗·安德森,Genre=动作、惊悚、科幻、冒险,Language=英语]
+2017-12-21 12:25:59,651  INFO main ClassPathXmlApplicationContext[prepareRefresh]:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58d25a40: startup date [Thu Dec 21 12:25:59 CST 2017]; root of context hierarchy
+2017-12-21 12:25:59,751  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from class path resource [project-one.xml]
+2017-12-21 12:26:00,040  INFO main XmlBeanDefinitionReader[loadBeanDefinitions]:Loading XML bean definitions from URL [jar:file:/D:/ZKH/DEV/Java/Maven/com/demo/project-monitor/0.0.1/project-monitor-0.0.1.jar!/project-monitor.xml]
+2017-12-21 12:26:01,457  INFO main DriverManagerDataSource[setDriverClassName]:Loaded JDBC driver: com.mysql.jdbc.Driver
+2017-12-21 12:26:01,947  INFO main DemoService[queryDb]:Movie[Id=1,Title=生化危机：终章,Director=保罗·安德森,Genre=动作、惊悚、科幻、冒险,Language=英语]
